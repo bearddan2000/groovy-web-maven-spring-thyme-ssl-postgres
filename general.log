@@ -1,0 +1,14 @@
+[2021-03-28 21:51:57 INFO]: install::setup-logging ended
+================
+[2021-03-28 21:51:57 INFO]: install::start-up started
+[2021-03-28 21:51:57 INFO]: install::start-up build image
+[2021-03-28 21:51:57 INFO]: install::decompress started
+[2021-03-28 21:51:57 INFO]: install::decompress changing directory to db
+[2021-03-28 21:51:57 INFO]: install::decompress decompress db/data_dump.tar.gz 
+[2021-03-28 21:51:57 INFO]: install::decompress removing data_dump.tar.gz 
+[2021-03-28 21:51:57 INFO]: install::decompress changing directory back
+[2021-03-28 21:51:57 INFO]: install::decompress ended
+================
+[2021-03-28 21:51:57 INFO]: install::decompress running image
+[2021-03-28 21:51:57 INFO]: install::decompress ended
+================
